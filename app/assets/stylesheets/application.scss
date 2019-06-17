@@ -1,4 +1,5 @@
 @import "font-awesome";
+@import "config/colors";
 @import "config/font-size";
 @import "config/reset";
 @import "mixins/mixin";
@@ -7,7 +8,6 @@
 @import "modules/chat";
 @import "modules/user";
 @import "messages/messages.scss";
-@import "config/colors";
 @import "modules/flash";
 
 
